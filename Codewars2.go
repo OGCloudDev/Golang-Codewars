@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//import "fmt"
+
 func main() {
 	name := string("david")
 	// fill in solution here
